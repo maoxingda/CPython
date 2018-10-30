@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "props", "props\props.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inheritance", "inheritance\inheritance.vcxproj", "{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virfunc", "virfunc\virfunc.vcxproj", "{80BF0502-CAB2-409E-AAA8-152D6B9A4458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Debug|Win32.Build.0 = Debug|Win32
 		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Release|Win32.ActiveCfg = Release|Win32
 		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Release|Win32.Build.0 = Release|Win32
+		{80BF0502-CAB2-409E-AAA8-152D6B9A4458}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80BF0502-CAB2-409E-AAA8-152D6B9A4458}.Debug|Win32.Build.0 = Debug|Win32
+		{80BF0502-CAB2-409E-AAA8-152D6B9A4458}.Release|Win32.ActiveCfg = Release|Win32
+		{80BF0502-CAB2-409E-AAA8-152D6B9A4458}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
