@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "datamems", "datamems\datame
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "props", "props\props.vcxproj", "{D5AC16D7-3ADE-4CA2-83AD-EE584BE53267}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inheritance", "inheritance\inheritance.vcxproj", "{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{D5AC16D7-3ADE-4CA2-83AD-EE584BE53267}.Debug|Win32.Build.0 = Debug|Win32
 		{D5AC16D7-3ADE-4CA2-83AD-EE584BE53267}.Release|Win32.ActiveCfg = Release|Win32
 		{D5AC16D7-3ADE-4CA2-83AD-EE584BE53267}.Release|Win32.Build.0 = Release|Win32
+		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Debug|Win32.Build.0 = Debug|Win32
+		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Release|Win32.ActiveCfg = Release|Win32
+		{2D398FFF-847B-43E1-B60D-CA9AC34E3BF5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
