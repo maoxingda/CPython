@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlls", "dlls\dlls.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctors", "ctors\ctors.vcxproj", "{0EF16F19-494B-4937-B438-B2E957321736}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "datamems", "datamems\datamems.vcxproj", "{E641D5B5-B5A5-4E42-BD1F-238DC11BFF19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{0EF16F19-494B-4937-B438-B2E957321736}.Debug|Win32.Build.0 = Debug|Win32
 		{0EF16F19-494B-4937-B438-B2E957321736}.Release|Win32.ActiveCfg = Release|Win32
 		{0EF16F19-494B-4937-B438-B2E957321736}.Release|Win32.Build.0 = Release|Win32
+		{E641D5B5-B5A5-4E42-BD1F-238DC11BFF19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E641D5B5-B5A5-4E42-BD1F-238DC11BFF19}.Debug|Win32.Build.0 = Debug|Win32
+		{E641D5B5-B5A5-4E42-BD1F-238DC11BFF19}.Release|Win32.ActiveCfg = Release|Win32
+		{E641D5B5-B5A5-4E42-BD1F-238DC11BFF19}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
