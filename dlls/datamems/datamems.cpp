@@ -8,8 +8,10 @@
 
 using namespace boost::python;
 
-struct Var
+class Var
 {
+public:
+	Var(){}
 	Var(std::string name) : name(name), value() {}
 	std::string const name;
 	float value;
@@ -17,7 +19,9 @@ struct Var
 
 BOOST_PYTHON_MODULE(datamems)
 {
-	class_<Var>("Var", init<std::string>())
+	class_<Var>(typeid(Var).name() + 6)
+		.def(init<>())
+		.def(init<std::string>())
 		.def_readonly("name", &Var::name)
 		.def_readwrite("value", &Var::value)
 		;
