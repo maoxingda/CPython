@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlls", "dlls\dlls.vcxproj", "{64995F05-053C-43E9-BA12-B6ED24ED1311}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctors", "ctors\ctors.vcxproj", "{0EF16F19-494B-4937-B438-B2E957321736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64995F05-053C-43E9-BA12-B6ED24ED1311}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64995F05-053C-43E9-BA12-B6ED24ED1311}.Debug|Win32.Build.0 = Debug|Win32
+		{64995F05-053C-43E9-BA12-B6ED24ED1311}.Release|Win32.ActiveCfg = Release|Win32
+		{64995F05-053C-43E9-BA12-B6ED24ED1311}.Release|Win32.Build.0 = Release|Win32
+		{0EF16F19-494B-4937-B438-B2E957321736}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0EF16F19-494B-4937-B438-B2E957321736}.Debug|Win32.Build.0 = Debug|Win32
+		{0EF16F19-494B-4937-B438-B2E957321736}.Release|Win32.ActiveCfg = Release|Win32
+		{0EF16F19-494B-4937-B438-B2E957321736}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
