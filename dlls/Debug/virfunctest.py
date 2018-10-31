@@ -1,14 +1,14 @@
-import virfunc
+import vf
 
 
-class Derived(virfunc.Base):
+class Derived(vf.Base):
     @staticmethod
     def f():
         return 456
 
 
 if __name__ == '__main__':
-    b = virfunc.Base()
+    b = vf.Base()
     d = Derived()
-    virfunc.calls_f(b)
-    virfunc.calls_f(d)
+    vf.calls_f(b)
+    vf.calls_f(d)
