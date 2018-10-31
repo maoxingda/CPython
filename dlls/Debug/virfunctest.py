@@ -1,4 +1,5 @@
 import vf
+import py_compile
 
 
 class Derived(vf.Base):
@@ -12,3 +13,4 @@ if __name__ == '__main__':
     d = Derived()
     vf.calls_f(b)
     vf.calls_f(d)
+    list

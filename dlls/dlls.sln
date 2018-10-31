@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virfunc", "virfunc\virfunc.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pyebd", "pyebd\pyebd.vcxproj", "{E89251D5-80B1-4B62-9B1A-EC9EEF40B96E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overloading", "overloading\overloading.vcxproj", "{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -49,6 +51,10 @@ Global
 		{E89251D5-80B1-4B62-9B1A-EC9EEF40B96E}.Debug|Win32.Build.0 = Debug|Win32
 		{E89251D5-80B1-4B62-9B1A-EC9EEF40B96E}.Release|Win32.ActiveCfg = Release|Win32
 		{E89251D5-80B1-4B62-9B1A-EC9EEF40B96E}.Release|Win32.Build.0 = Release|Win32
+		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Debug|Win32.Build.0 = Debug|Win32
+		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Release|Win32.ActiveCfg = Release|Win32
+		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

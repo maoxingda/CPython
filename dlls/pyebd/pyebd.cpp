@@ -22,6 +22,12 @@ int _tmain(int argc, _TCHAR* argv[])
 		mnsp
 		);
 
+	igrd = exec("import sys\n\n"
+		"for bmn in sys.builtin_module_names:\n"
+		"    print bmn\n",
+		mnsp
+		);
+
 	try
 	{
 		exec_file("C:/Users/Administrator/Documents/PythonProjects/Python2/trunk/dlls/Debug/virfunctest.py", mnsp, mnsp);
