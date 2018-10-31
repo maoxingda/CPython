@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pyebd", "pyebd\pyebd.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overloading", "overloading\overloading.vcxproj", "{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dargs", "dargs\dargs.vcxproj", "{C598D2A9-309D-4577-9DAF-529CD4632A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -55,6 +57,10 @@ Global
 		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Debug|Win32.Build.0 = Debug|Win32
 		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Release|Win32.ActiveCfg = Release|Win32
 		{0EF2F46D-9035-4AAB-B7BE-73BBA8AEECD0}.Release|Win32.Build.0 = Release|Win32
+		{C598D2A9-309D-4577-9DAF-529CD4632A31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C598D2A9-309D-4577-9DAF-529CD4632A31}.Debug|Win32.Build.0 = Debug|Win32
+		{C598D2A9-309D-4577-9DAF-529CD4632A31}.Release|Win32.ActiveCfg = Release|Win32
+		{C598D2A9-309D-4577-9DAF-529CD4632A31}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
